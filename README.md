@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/_sarikhani_" target="blank"><img src="https://img.shields.io/twitter/follow/_sarikhani_?logo=twitter&style=for-the-badge" alt="_sarikhani_" /></a> </p>
 
-- 🔭 I’m currently working on **machine learning small projcts**
+- 🔭 I’m currently working on **machine learning small projects**
 
 - 🌱 I’m currently learning **machine learning, deep learning and data science**
 
