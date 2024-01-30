@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatemeh (aka milou)</h1>
-<h3 align="center">A computer engineer student and life-time learner</h3>
+<h3 align="center">A computer engineering student and life-time learner</h3>
 
 <p align="left"> <a href="https://twitter.com/_sarikhani_" target="blank"><img src="https://img.shields.io/twitter/follow/_sarikhani_?logo=twitter&style=for-the-badge" alt="_sarikhani_" /></a> </p>
 
